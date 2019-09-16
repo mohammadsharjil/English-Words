@@ -1,2 +1,2 @@
 # English-Words
-Vocabularly
+Vocabulary
